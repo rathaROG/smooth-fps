@@ -1,0 +1,3 @@
+include *.txt *.md *.in LICENSE
+global-exclude */__pycache__
+prune .github
